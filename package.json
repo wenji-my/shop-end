@@ -7,10 +7,12 @@
     "declarations": true
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "egg": "^2.15.1",
     "egg-cors": "^2.2.0",
     "egg-scripts": "^2.11.0",
     "egg-sequelize": "^5.0.0",
+    "jsonwebtoken": "^8.5.1",
     "mysql2": "^1.6.5",
     "mz-modules": "^2.1.0"
   },
